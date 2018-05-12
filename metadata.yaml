@@ -1,0 +1,43 @@
+_repo: Home-made-Toys-for-Girls-and-BoysWooden-and-Cardboard-Toys-Mechanical-and-Electric-Toys_41669
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hall, N. P.
+    alias: Hall, Norman P.
+    gutenberg_agent_id: '41795'
+    url: http://www.gutenberg.org/2009/agents/41795
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, A. Neely (Albert Neely)
+    alias: Hall, Albert Neely
+    birthdate: 1883
+    gutenberg_agent_id: '41294'
+    url: http://www.gutenberg.org/2009/agents/41294
+description: ''
+gutenberg_issued: '2012-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41669'
+  lccn: '15021002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Handicraft'
+- !lcsh 'Toys'
+- !lcc 'GV'
+tableOfContents: Home-made windmills -- Home-made kites -- A home-made model aeroplane
+  -- A home-made toy motor-boat -- Home-made toy water-motors -- A home-made toy railway
+  -- Home-made toy elevators -- Home-made mechanical toys -- Home-made tops -- Home-made
+  clockwork toys -- Home-made electrical toy -- A home-made toy shooting gallery --
+  A home-made doll-house -- Furnishing the home-made doll-house -- A home-made doll
+  apartment building -- Home-made doll furniture -- Home-made cigar-box toy -- Home-made
+  spool and cardboard toys -- A home-made toy mail-box -- A home-made reflectoscope.
+title: 'Home-made Toys for Girls and Boys
+
+  Wooden and Cardboard Toys, Mechanical and Electric Toys'
+url: http://www.gutenberg.org/ebooks/41669
